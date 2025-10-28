@@ -29,8 +29,8 @@ I am **Ardhan Anggana Prasetya**
 ---
 
 ### 📬 Contact
-[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](www.linkedin.com/in/ardhan-anggana-prasetya-435388294)
-[![Email](https://img.shields.io/badge/Email-angganaardhan@gmail.com-red?style=flat&logo=gmail)](mailto:angganaardhan@gmail.com)
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/ardhan-anggana-prasetya-435388294)
+[![Email](https://img.shields.io/badge/Email-angganaardhan@gmail.com-red?style=flat&logo=gmail)](https://mail.google.com/mailto:angganaardhan@gmail.com)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?logo=kaggle&logoColor=fff)](https://www.kaggle.com/ardhananggana)
 [![GitHub](https://img.shields.io/badge/GitHub-ArdhanAnggana-black?style=flat&logo=github)](https://github.com/Ardhan807)
 
