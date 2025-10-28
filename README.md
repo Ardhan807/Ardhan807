@@ -21,8 +21,8 @@ I am **Ardhan Anggana Prasetya**
 ---
 
 ### 📊 GitHub Stats
-![Ardhan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArdhanAnggana&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArdhanAnggana&layout=compact&theme=tokyonight)
+![Ardhan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ardhan807&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ardhan807&layout=compact&theme=tokyonight)
 
 ---
 
