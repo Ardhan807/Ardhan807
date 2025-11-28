@@ -1,11 +1,11 @@
 # Hi there 👋  
 I am **Ardhan Anggana Prasetya**
 
-🎓 Undergraduate Student in **Mechatronics and Artificial Intelligence**  
-💡 Passionate about **AI, Machine Learning, Data Engineering, API Development, Automation**  
-🚀 Currently exploring **Deep Learning & Computer Vision**  
-📌 learning by doing experimenting, breaking things, fixing them, and improving step by step.
-🎯 My long term goal is to **build a strong career in AI and Machine Learning**, creating tools and systems that make data more useful and accessible
+- 🎓 Undergraduate Student in **Mechatronics and Artificial Intelligence**  
+- 💡 Passionate about **AI, Machine Learning, Data Engineering, API Development, Automation**  
+- 🚀 Currently exploring **Deep Learning & Computer Vision**  
+- 📌 learning by doing experimenting, breaking things, fixing them, and improving step by step
+- 🎯 My long term goal is to **build a strong career in AI and Machine Learning**, creating tools and systems that make data more useful and accessible
 
 ---
 
